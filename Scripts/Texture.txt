@@ -1,0 +1,14 @@
+STACKING TEXTURES
+/*Character [0]*/
+stack -> CharSpr/Idle.png 24 32
+stack => 0 CharSpr/React.png 22 32
+stack => 0 CharSpr/Walk.png 22 33
+/*Background [1]*/
+stack 1 background.png
+/*Barrel [2]*/
+stack 4
+ITEMS/S_ItemNoOutline_BarrelGold_00.png
+ITEMS/S_ItemNoOutline_BarrelGreen_00.png
+ITEMS/S_ItemNoOutline_BarrelPurple_00.png
+ITEMS/S_ItemNoOutline_BarrelRed_00.png
+END

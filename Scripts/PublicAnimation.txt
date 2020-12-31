@@ -1,0 +1,20 @@
+character 60 0 -> R 0 10
+character 60 NEW -> R 15 27
+character 60 NEW -> R 11 14
+drawning 16 0 0 -> R 0 3
+drawning 17 1 0 -> R 0 3
+drawning 18 2 0 -> R 0 3
+drawning 19 3 0 -> R 0 3
+drawning 20 4 0 -> R 0 3
+drawning 21 5 0 -> R 0 3
+drawning 22 6 0 -> R 0 3
+drawning 23 7 0 -> R 0 3
+drawning 24 8 0 -> R 0 3
+drawning 25 9 0 -> R 0 3
+drawning 23 10 0 -> R 0 3
+drawning 24 11 0 -> R 0 3
+drawning 25 12 0 -> R 0 3
+drawning 26 13 0 -> R 0 3
+drawning 27 14 0 -> R 0 3
+drawning 28 15 0 -> R 0 3
+END

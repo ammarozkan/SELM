@@ -1,0 +1,4 @@
+STACKING Texture
+BINDING Binding
+ANIMATION PublicAnimation
+END
